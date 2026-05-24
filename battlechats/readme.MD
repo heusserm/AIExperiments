@@ -343,30 +343,6 @@ This makes it easier to:
 * study negotiation patterns
 * review long-term drift
 
----
-
-# Notes
-
-
-
----
-
-# Suggested .gitignore
-
-```gitignore
-__pycache__/
-*.pyc
-.env
-conversation_log.txt
-```
-
----
-
-# Suggested requirements.txt
-
-```text
-openai>=1.0.0
-```
 
 ---
 
